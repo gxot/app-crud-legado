@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppCrudLegado</string>
+    <string name="title_activity_primeira">PrimeiraActivity</string>
 </resources>
